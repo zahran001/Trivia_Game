@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #This program contains three related modules.
 
 class Questions:
@@ -48,19 +46,4 @@ class Questions:
 
     def __str__(self):
         return f"{self.__TriviaQuesiton}\n{'1.'+self.__Answer1}\n{'2.'+self.__Answer2}\n{'3.'+self.__Answer3}\n{'4.'+self.__Answer4}"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
