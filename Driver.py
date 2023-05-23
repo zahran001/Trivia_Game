@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #This program contains three related modules.
 
 # 2 players will play the game
