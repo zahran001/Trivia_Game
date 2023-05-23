@@ -1,7 +1,4 @@
-#Zahran Yahia Khan
-#U63179657
 #This program contains three related modules.
-
 
 import Questions_Class
 
@@ -40,23 +37,3 @@ def Triv_Ques():
 
 
     return list
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
