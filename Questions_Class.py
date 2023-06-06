@@ -24,7 +24,6 @@ class Questions:
     def getNumberForCorrectAnswer(self):
         return self.__NumberForCorrectAnswer
 
-
     #mutator methods - update data
 
     def setTriviaQuestion(self,q):
@@ -42,7 +41,6 @@ class Questions:
 
     def setNumberForCorrectAnswer(self,no_ca):
         self.__NumberForCorrectAnswer = no_ca
-
 
     def __str__(self):
         return f"{self.__TriviaQuesiton}\n{'1.'+self.__Answer1}\n{'2.'+self.__Answer2}\n{'3.'+self.__Answer3}\n{'4.'+self.__Answer4}"
